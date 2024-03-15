@@ -1,7 +1,7 @@
 ** # Train encrypted cyberpunk avatars using DCGAN **
 
 ** ## Background **
-For DCGAN knowledge, visit the origin article : https://arxiv.org/abs/1511.06434
+For DCGAN knowledge, visit the origin article 《Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks》: https://arxiv.org/abs/1511.06434
 
 ** ## Usage **
 Run dcgan.py to train and generate images at a scale of 128x128.
